@@ -17,9 +17,6 @@ datasets/
 ├── README.md
 └── data/
     ├── LUNG1-001/
-    ├── LUNG1-002/
-    ├── ...
-    └── LUNG1-010/
 ```
 
 O diretório `datasets` é compartilhado pelos projetos em `E:\git` e deve ser
